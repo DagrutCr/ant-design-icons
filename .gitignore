@@ -32,8 +32,6 @@ build/
 *.tgz
 
 /icons
-/*.js
-/*.d.ts
 !.eslintrc.js
 !.fatherrc.js
 !jest.config.js
