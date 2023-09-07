@@ -22,9 +22,7 @@ yarn-error.log*
 # IDE
 /.idea
 
-lib/
 es/
-dist/
 build/
 .vscode
 
